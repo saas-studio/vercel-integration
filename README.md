@@ -1,4 +1,4 @@
-# Vercel Example Integration
+# **SaaS**kit Vercel Integration
 
 This app is an example integration, built with Next.js.
 
